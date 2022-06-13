@@ -1,4 +1,4 @@
-import Widget from './components/widget';
+import Widget from './components/Widget';
 
 const App = () => {
     return <Widget />;
